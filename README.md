@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0274-h-index) |
 ## Counting
 |  |
 | ------- |
@@ -61,4 +63,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0013-roman-to-integer) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
