@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
