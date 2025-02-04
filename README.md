@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
