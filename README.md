@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0274-h-index) |
+| [0954-maximum-sum-circular-subarray](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0169-majority-element) |
+| [0954-maximum-sum-circular-subarray](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0954-maximum-sum-circular-subarray](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -121,4 +124,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0050-powx-n) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
