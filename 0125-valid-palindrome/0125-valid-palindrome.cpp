@@ -1,24 +1,13 @@
 class Solution {
 public:
+    bool helper(string& s, int left, int right){
+        if(left >= right) return true;
+        while(left < right && !isalnum(s[left])) left++;
+        while(left < right && !isalnum(s[right])) right--;
+        if(tolower(s[left]) != tolower(s[right])) return false;
+        return helper(s, left+1, right-1);
+    }
     bool isPalindrome(string s) {
-        int start = 0;
-        int end = s.size() - 1;
-        while (start <= end) {
-            if (!isalnum(s[start])) {
-                start++;
-                continue;
-            }
-            if (!isalnum(s[end])) {
-                end--;
-                continue;
-            }
-            if (tolower(s[start]) != tolower(s[end]))
-                return false;
-            else {
-                start++;
-                end--;
-            }
-        }
-        return true;
+        return helper(s, 0, s.length()-1);
     }
 };
