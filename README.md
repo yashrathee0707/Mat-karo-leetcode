@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
