@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0274-h-index) |
 | [0954-maximum-sum-circular-subarray](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
