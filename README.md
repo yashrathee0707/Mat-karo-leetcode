@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0274-h-index) |
 | [0954-maximum-sum-circular-subarray](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0274-h-index) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
 | ------- |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0135-candy) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## String
 |  |
 | ------- |
@@ -113,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0238-product-of-array-except-self) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Trie
 |  |
 | ------- |
@@ -127,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0162-find-peak-element) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
 | ------- |
@@ -168,4 +173,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/1013-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
