@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0162-find-peak-element) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0200-number-of-islands) |
 ## String Matching
 |  |
@@ -163,11 +165,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0130-surrounded-regions](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
@@ -184,5 +188,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
