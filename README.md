@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0013-roman-to-integer) |
+| [0146-lru-cache](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0242-valid-anagram) |
@@ -190,4 +191,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0200-number-of-islands) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
