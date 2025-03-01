@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0189-rotate-array) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0061-rotate-list) |
 | [0146-lru-cache](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0146-lru-cache) |
 ## Design
 |  |
