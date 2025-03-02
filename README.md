@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0274-h-index) |
 | [0954-maximum-sum-circular-subarray](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/0238-product-of-array-except-self) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Trie
 |  |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yashrathee0707/Mat-karo-leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Union Find
 |  |
